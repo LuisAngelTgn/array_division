@@ -1,7 +1,4 @@
-# GitHub Codespaces ♥️ Ruby on Rails
+# División de una array en subarrays con Ruby on Rails
 
-Welcome to your shiny new Codespace running Rails! We've got everything fired up and running for you to explore Rails.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+El método donde divide la array está ubicado en un helper: <b> app/helpers/hello_codespaces_helper.rb </b><br>
+La vista donde indicar la array y el número de divisiones es esta: <b> app/views/hello/index.html.erb </b>
